@@ -1,4 +1,5 @@
-{
+[
+ {
   "id": 1,
   "name": "Devweekerson",
   "account": {
@@ -13,43 +14,61 @@
     "number": "xxxx xxxx xxxx 1111",
     "limit": 2000.00
   },
-  "features": [
-    {
-      "id": 1,
-      "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/pix.svg",
-      "description": "PIX"
-    },
-    {
-      "id": 2,
-      "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/pay.svg",
-      "description": "Pagar"
-    },
-    {
-      "id": 3,
-      "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/transfer.svg",
-      "description": "Transferir"
-    },
-    {
-      "id": 4,
-      "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/account.svg",
-      "description": "Conta Corrente"
-    },
-    {
-      "id": 5,
-      "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/cards.svg",
-      "description": "Cartões"
-    }
-  ],
-  "news": [
-    {
-      "id": 2,
-      "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/insurance.svg",
-      "description": "Santander Seguro Casa, seu faz-tudo. Mais de 50 serviços pra você. Confira!"
-    },
-    {
-      "id": 1,
-      "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
-      "description": "O Santander tem soluções de crédito sob medida pra você. Confira!"
-    }
-  ]
-}
+  "features":[],
+  "news":[]
+ },
+ {
+  "id": 4,
+  "name": "Pytherson",
+  "account": {
+    "id": 7,
+    "number": "00001-1",
+    "agency": "0001",
+    "balance": 0.00,
+    "limit": 500.00
+  },
+  "card": {
+    "id": 4,
+    "number": "xxxx xxxx xxxx 2222",
+    "limit": 1000.00
+  },
+  "features":[],
+  "news":[]
+ },
+ {
+  "id": 5,
+  "name": "Pip",
+  "account": {
+    "id": 8,
+    "number": "00002-2",
+    "agency": "0002",
+    "balance": 0.00,
+    "limit": 500.00
+  },
+  "card": {
+    "id": 5,
+    "number": "xxxx xxxx xxxx 3333",
+    "limit": 1000.00
+  },
+  "features":[],
+  "news":[]
+ },
+ {
+  "id": 6,
+  "name": "Pep",
+  "account": {
+    "id": 9,
+    "number": "00003-3",
+    "agency": "0001",
+    "balance": 0.00,
+    "limit": 500.00
+  },
+  "card": {
+    "id": 6,
+    "number": "xxxx xxxx xxxx 4444",
+    "limit": 1000.00
+  },
+  "features":[],
+  "news":[]
+ }
+]
